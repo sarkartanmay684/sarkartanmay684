@@ -2,11 +2,11 @@
 
 **Identity & Access Management · Security Operations · Digital Forensics & Incident Response · GRC**
 
-CompTIA CySA+ · CompTIA Security+ · M.S. Cybersecurity, UMBC (3.83 GPA)
+CompTIA CySA+ · CompTIA Security+ · M.S. Cybersecurity, UMBC
 
 I spent four years at Tata Consultancy Services building the role-based access logic that decided which users could reach which financial functions for a banking client. Since then I have moved to the other side of that problem: verifying access controls rather than writing them. My graduate research, under National Security Agency technical mentorship, applied formal methods to a cryptographic protocol.
 
-Baltimore, MD 
+Baltimore, MD · Open to relocation worldwide  
 [Resume (PDF)](https://github.com/sarkartanmay684/sarkartanmay684/blob/main/Tanmay_Sarkar_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/tanmay-surjyakanta-sarkar-5236302a7/) · tsarkar1@umbc.edu
 
 ---
@@ -57,7 +57,7 @@ One of five researchers analysing SecureDNA, a system that screens DNA synthesis
 
 ## Background
 
-**Graduate coursework** — 22 hands-on labs across two disciplines. Digital forensics and incident response: memory forensics with Volatility, disk imaging with FTK Imager and ProDiscover, registry and browser artifacts, static malware analysis, packet capture and NetFlow analysis, NIDS/NIPS and proxy analysis, IOC development with OpenIOC. Offensive security testing in controlled lab environments: OSINT, network mapping, vulnerability analysis with Nessus, exploitation with Metasploit, web testing with Burp Suite, and wireless and social engineering assessment.
+**Graduate coursework (M.S. Cybersecurity, UMBC)** — Enterprise Security, Cyber Operations Management, Risk Analysis & Compliance, Cyber Law & Policy, and 22 hands-on labs across two disciplines. Digital forensics and incident response: memory forensics with Volatility, disk imaging with FTK Imager and ProDiscover, registry and browser artifacts, static malware analysis, packet capture and NetFlow analysis, NIDS/NIPS and proxy analysis, IOC development with OpenIOC. Offensive security testing in controlled lab environments: OSINT, network mapping, vulnerability analysis with Nessus, exploitation with Metasploit, web testing with Burp Suite, and wireless and social engineering assessment.
 
 **Four years production engineering** — Java, Spring, Hibernate, SQL stored procedures and schedulers, IBM WebSphere on Linux, delivered under a regulated SDLC with formal change control for a banking client. Four company awards.
 
