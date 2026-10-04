@@ -2,11 +2,11 @@
 
 **Identity & Access Management · Security Operations · Digital Forensics & Incident Response · GRC**
 
-CompTIA CySA+ · CompTIA Security+ · M.P.S. Cybersecurity, UMBC (4.0 GPA)
+CompTIA CySA+ · CompTIA Security+ · M.S. Cybersecurity, UMBC (3.83 GPA)
 
 I spent four years at Tata Consultancy Services building the role-based access logic that decided which users could reach which financial functions for a banking client. Since then I have moved to the other side of that problem: verifying access controls rather than writing them. My graduate research, under National Security Agency technical mentorship, applied formal methods to a cryptographic protocol.
 
-Baltimore, MD · Open to relocation worldwide  
+Baltimore, MD 
 [Resume (PDF)](https://github.com/sarkartanmay684/sarkartanmay684/blob/main/Tanmay_Sarkar_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/tanmay-surjyakanta-sarkar-5236302a7/) · tsarkar1@umbc.edu
 
 ---
